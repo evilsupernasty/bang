@@ -1,0 +1,25 @@
+html {
+    font-size: 62.5%;
+    height: 100%;
+}
+
+body {
+    background-color: pink;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#content {
+    align-items: center;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+}
+
+h1 {
+    color: palevioletred;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10rem;
+    font-weight: normal;
+}

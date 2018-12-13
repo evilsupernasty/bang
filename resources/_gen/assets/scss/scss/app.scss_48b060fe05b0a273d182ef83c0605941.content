@@ -1,0 +1,1 @@
+html{font-size:62.5%;height:100%}body{background-color:pink;height:100%;margin:0;padding:0}#content{align-items:center;display:flex;height:100%;justify-content:center}h1{color:#db7093;font-family:courier new,Courier,monospace;font-size:10rem;font-weight:400}
